@@ -1,0 +1,4 @@
+A image (video) viewer project inspired by this video(https://www.youtube.com/watch?v=sItRLFjbqvo).
+Hopefully one I can really finish.
+I'll (probably) try to play GIFs using C and SDL3.
+I named it iv because it's what's used in the video and I liked it, I'll probably rename it to gv if I can finish it.
